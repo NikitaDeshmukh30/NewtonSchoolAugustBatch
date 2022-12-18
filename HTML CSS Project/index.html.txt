@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify Account</title>
+</head>
+<body>
+    <div class="Container">
+				<h2 class="heading">Verify Your Account</h2>
+				<p class="text">We emailed you the six digit cod to cool_guy@email.com <br />
+						Enter the code below to confirm your email address.</p>
+		<form action="@"
+					class="form">
+			<input type="text"
+						 placeholder="0"
+						 minlength="0"
+						 maxlength="1"
+						 required/>
+			<input type="text"
+						 placeholder="0"
+						 minlength="0"
+						 maxlength="1"
+						 required/>
+			<input type="text"
+						 placeholder="0"
+						 minlength="0"
+						 maxlength="1"
+						 required/>
+			<input type="text"
+						 placeholder="0"
+						 minlength="0"
+						 maxlength="1"
+						 required/>
+			<input type="text"
+						 placeholder="0"
+						 minlength="0"
+						  maxlength="1"
+						 required/>
+			<input type="text"
+						 placeholder="0"
+						 minlength="0"
+						 maxlength="1"
+						 required/>
+		</form>
+      <p class="contains"> This is design only. We didn't actually send you an</br>email as we don't have your email, right? </p>
+		</div>
+  </body>
+</html>
